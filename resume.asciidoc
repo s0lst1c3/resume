@@ -44,9 +44,9 @@ Projects
 *Rutgers OSS Payroll 2.0* +
 Added new featureas to the Open Systems Solutions payroll site, including
 email notifications, batch printing of timesheets, and an expanded administrator
-view. PHP, MySQL, Javascript. +
+view. PHP, MySQL, Javascript. 
 
-* shrunk - The Official Rutgers URL Shrinker * +
+*shrunk - The Official Rutgers URL Shrinker* +
 A URL shortening service for Rutgers users with analytics and user account controls. Developed prototype July through August 2014 using PHP, MongoDB, Javascript, and OpenLDAP. After the prototype was subsequently approved by the Rutgers administration, began working with OSS team to implement release version using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
 
 * smf-gremlin *
