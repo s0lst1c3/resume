@@ -15,7 +15,7 @@ Experience
 __January 2015-Present__
 
 * Developing course content, lesson plans, and syllabus for
-Top Hat Sec's Certified Python Security Professional program.
+Top Hat Sec's Certified Python Security Scripting Professional program.
 
 *Student Systems Programmer*; Rutgers - Open Systems Solutions +
 __January 2014-December 2014__
