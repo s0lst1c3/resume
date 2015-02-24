@@ -16,8 +16,8 @@ __January 2015-Present__ +
 * Developing course content, lesson plans, and syllabus for
 Top Hat Sec's Certified Python Security Professional program.
 
-Student Systems Programmer*; Rutgers - Open Systems Solutions +
-*January 2014-December 2014
+*Student Systems Programmer*; Rutgers - Open Systems Solutions +
+__January 2014-December 2014__ +
 * Part of a team responsible for building and maintaining RPM packages
 used throughout a user community of 70,000 faculty, students, and staff
 * Wrote, debugged, and maintained PHP and Python scripts for web
