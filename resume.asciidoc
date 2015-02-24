@@ -68,8 +68,8 @@ Web hosting for http://hackru.org[hackru.org], the website of one of the largest
 Volunteer
 ---------
 
-*Firefighter/EMT-B*; Darlington Volunteer Fire Department
-__September 2010-Present;
+*Firefighter/EMT-B*; Darlington Volunteer Fire Department +
+__September 2010-Present__;
 
 * Part of an engine crew responsible for rapid response to structural, vehicular, and agricultural fires, providing aggressive interior fire supression and rescue capabilities with limited external support and water supply
 * Nationally certified Firefighter I and Hazmat Operator
