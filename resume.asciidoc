@@ -11,7 +11,7 @@ https://github.com/mythological[github.com/s0lst1c3] +
 Experience
 ----------
 
-*Independent Contractor*; Top-Hat-Sec
+*Independent Contractor*; Top-Hat-Sec +
 __January 2015-Present;
 * Developing course content, lesson plans, and syllabus for
 Top Hat Sec's Certified Python Security Professional program.
