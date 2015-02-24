@@ -4,8 +4,8 @@
 New Brunswick, NJ, 08901
 Apt 1110
 
-mailto:contact@solstice.me +
-http://github.com/mythological[github.com/s0lst1c3]
+mailto:contact@solstice.me[contact@solstice.me]
+https://github.com/mythological[github.com/s0lst1c3]
 
 [[experience]]
 Experience
