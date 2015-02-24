@@ -1,0 +1,86 @@
+=== John Ryan
+
+290 George Street +
+New Brunswick, NJ, 08901
+Apt 1110
+
+mailto:contact@solstice.me +
+http://github.com/mythological[github.com/s0lst1c3]
+
+[[experience]]
+Experience
+----------
+
+*Independent Contractor*; Top-Hat-Sec
+__January 2015-Present;
+* Developing course content, lesson plans, and syllabus for
+Top Hat Sec's Certified Python Security Professional program.
+
+Student Systems Programmer*; Rutgers - Open Systems Solutions
+*January 2014-December 2014;
+* Part of a team responsible for building and maintaining RPM packages
+used throughout a user community of 70,000 faculty, students, and staff
+* Wrote, debugged, and maintained PHP and Python scripts for web
+applications
+* Assessed, diagnosed, and resolved system and application issues on
+Centos servers
+* Wrote Salt states and bash scripts to automate system configuration
+and administration
+* Secured application and database servers
+
+[[education]]
+Education
+---------
+
+Rutgers University - School of Arts and Sciences; New Brunswick, NJ +
+B.S. in Computer Science; Class of 2017 +
+
+[[projects]]
+Projects
+--------
+
+*Rutgers OSS Payroll 2.0*
+* Added new featureas to the Open Systems Solutions payroll site, including
+email notifications, batch printing of timesheets, and an expanded administrator
+view. PHP, MySQL, Javascript.
+
+* shrunk (The Official Rutgers URL Shrinker)*
+* A URL shortening service for Rutgers users with analytics and user account
+controls.
+* Developed prototype July through August 2014 using PHP, MongoDB, Javascript,
+and OpenLDAP. AFter the prototype was subsequently approved by the Rutgers
+administration, began working with OSS team to implement release version
+using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
+
+* smf-gremlin *
+An optimized Simple Machines Forum password cracker written in Python. Supports +
+variable length bruteforce attacks using multiple charsets. Users can easily add +
+their own charsets and leverage multiple wordlist files, and can crack hashes in +
+batch. Python 2.7, hashlib, itertools, argparse.
+
+* grey-harvest *
+A simple http proxy harvester designed to be used in conjunction with proxychains.+
+Scrapes the web for proxies, then tests their connection speed and reliability. Removes any previously used proxies from the end of /etc/proxychains.conf, replacing them with freshly harvested proxies. Python 2.7, mechanize, httplib, sockets.
+
+* eye-of-horus *
+Scrapes the Rutgers online schedule of classes for open course sections at five
+minute intervals. When an open course section is found, automatically authenticates into Rutgers course registration website and registers user for the class. Won "Best Rutgers Hack" at HackRU Spring 2014. Python 2.7, Mechanize.
+
+* ru-dnd.com *
+The website for the Rutgers Dungeons and Dragons club. Features include a general info page, mailing list subscription, contact form, dynamically populated newsfeed, and an administrator panel. Python 2.7, Flask, MySQL, SQLAlchemy, OAuth, Apache, OpenSSL. 
+
+* operations - hackru.org *
+Web hosting for http://hackru.org[hackru.org], the website of one of the largest student hackathons in the United States. Responsible for maintaining and securing hackru.org's high visibility continuous deployment environment. Centos6, OpenSSL, git hooks. 
+
+[[volunteer]]
+Volunteer
+---------
+
+*Firefighter/EMT-B*; Darlington Volunteer Fire Department
+__September 2010-Present;
+
+* Part of an engine crew responsible for rapid response to structural, vehicular, and agricultural fires, providing aggressive interior fire supression and rescue capabilities with limited external support and water supply
+* Nationally certified Firefighter I and Hazmat Operator
+* Licensed Maryland EMT-B
+* Participated in major multiagency operations including the FEMA coordinated responses to Hurricane Sandy and Hurricane Irene
+
