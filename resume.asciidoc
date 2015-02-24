@@ -49,24 +49,19 @@ view. PHP, MySQL, Javascript.
 *shrunk - The Official Rutgers URL Shrinker* +
 A URL shortening service for Rutgers users with analytics and user account controls. Developed prototype July through August 2014 using PHP, MongoDB, Javascript, and OpenLDAP. After the prototype was subsequently approved by the Rutgers administration, began working with OSS team to implement release version using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
 
-* smf-gremlin *
-An optimized Simple Machines Forum password cracker written in Python. Supports +
-variable length bruteforce attacks using multiple charsets. Users can easily add +
-their own charsets and leverage multiple wordlist files, and can crack hashes in +
-batch. Python 2.7, hashlib, itertools, argparse.
+*smf-gremlin* +
+An optimized Simple Machines Forum password cracker written in Python. Supports variable length bruteforce attacks using multiple charsets. Users can easily add their own charsets and leverage multiple wordlist files, and can crack hashes in batch. Python 2.7, hashlib, itertools, argparse.
 
-* grey-harvest *
-A simple http proxy harvester designed to be used in conjunction with proxychains.+
-Scrapes the web for proxies, then tests their connection speed and reliability. Removes any previously used proxies from the end of /etc/proxychains.conf, replacing them with freshly harvested proxies. Python 2.7, mechanize, httplib, sockets.
+*grey-harvest*
+A simple http proxy harvester designed to be used in conjunction with proxychains. Scrapes the web for proxies, then tests their connection speed and reliability. Removes any previously used proxies from the end of /etc/proxychains.conf, replacing them with freshly harvested proxies. Python 2.7, mechanize, httplib, sockets.
 
-* eye-of-horus *
-Scrapes the Rutgers online schedule of classes for open course sections at five
-minute intervals. When an open course section is found, automatically authenticates into Rutgers course registration website and registers user for the class. Won "Best Rutgers Hack" at HackRU Spring 2014. Python 2.7, Mechanize.
+*eye-of-horus*
+Scrapes the Rutgers online schedule of classes for open course sections at five minute intervals. When an open course section is found, automatically authenticates into Rutgers course registration website and registers user for the class. Won "Best Rutgers Hack" at HackRU Spring 2014. Python 2.7, Mechanize.
 
-* ru-dnd.com *
+*ru-dnd.com*
 The website for the Rutgers Dungeons and Dragons club. Features include a general info page, mailing list subscription, contact form, dynamically populated newsfeed, and an administrator panel. Python 2.7, Flask, MySQL, SQLAlchemy, OAuth, Apache, OpenSSL. 
 
-* operations - hackru.org *
+*operations - hackru.org*
 Web hosting for http://hackru.org[hackru.org], the website of one of the largest student hackathons in the United States. Responsible for maintaining and securing hackru.org's high visibility continuous deployment environment. Centos6, OpenSSL, git hooks. 
 
 [[volunteer]]
@@ -80,4 +75,5 @@ __September 2010-Present;
 * Nationally certified Firefighter I and Hazmat Operator
 * Licensed Maryland EMT-B
 * Participated in major multiagency operations including the FEMA coordinated responses to Hurricane Sandy and Hurricane Irene
-
++
++
