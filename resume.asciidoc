@@ -1,15 +1,17 @@
 === John Ryan
 
-290 George Street +
-New Brunswick, NJ, 08901 +
-Apt 1110 +
+43174 Witham Square +
+Ashburn, VA, 20148 +
 
 mailto:contact@solstice.me[contact@solstice.me] +
-https://github.com/mythological[github.com/s0lst1c3] +
+https://github.com/s0lst1c3[github.com/s0lst1c3] +
 
 [[experience]]
 Experience
 ----------
+
+*Security Analyst Intern*; OGSystems +
+__June 2015-Present__
 
 *Independent Contractor*; Top-Hat-Sec +
 __January 2015-Present__
@@ -41,22 +43,28 @@ B.S. in Computer Science; Class of 2017 +
 Projects
 --------
 
-*Rutgers OSS Payroll 2.0* +
-Added new featureas to the Open Systems Solutions payroll site, including
-email notifications, batch printing of timesheets, and an expanded administrator
-view. PHP, MySQL, Javascript. 
+*V3N0M Framework* +
+Working with the OGSystems OFFS3C Team to develop the https://www.ogsystems.com/products.aspx#products-security[V3N0M Framework], fully modular suite of offensive security tools geared towards reconnaissance, explotation, and exfiltration. Python 2.7. Python 3.3
 
-*shrunk - The Official Rutgers URL Shrinker* +
-A URL shortening service for Rutgers users with analytics and user account controls. Developed prototype July through August 2014 using PHP, MongoDB, Javascript, and OpenLDAP. After the prototype was subsequently approved by the Rutgers administration, began working with OSS team to implement release version using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
+*Mosquito* +
+Part of the team working on https://www.ogsystems.com/products.aspx#products-security[Mosquito for OGSystems]. Mosquito is a small, handheld device that collects wireless signals of 802.11 capable devices such as a cell phones and laptops. It can be deployed to a remote hotspot and concealed, where it will passively gather wireless data to relay back to its CNC. This data can added to a white/black list of devices, enabling Mosquito to server as an accurate and portable intrusion detection device. My responsibilites include writing backend server code and contributing to the packet sniffing modules. Python 2.7, Python 3.3, Mongo, Tornado, dpkt
+
+*grey_harvest*
+Scrapes the web for reliable http/https proxies and tests them for speed and reliability Can be used as both a python module and a command line utility. Check out the project on PyPi - https://pypi.python.org/pypi/grey_harvest[pypi.python.org/pypi/grey_harvest]. Python 2.7, lxml, requests, BeautifulSoup, sockets
 
 *smf-gremlin* +
 An optimized Simple Machines Forum password cracker written in Python. Supports variable length bruteforce attacks using multiple charsets. Users can easily add their own charsets and leverage multiple wordlist files, and can crack hashes in batch. Python 2.7, hashlib, itertools, argparse.
 
-*grey-harvest*
-A simple http proxy harvester designed to be used in conjunction with proxychains. Scrapes the web for proxies, then tests their connection speed and reliability. Removes any previously used proxies from the end of /etc/proxychains.conf, replacing them with freshly harvested proxies. Python 2.7, mechanize, httplib, sockets.
-
 *eye-of-horus*
 Scrapes the Rutgers online schedule of classes for open course sections at five minute intervals. When an open course section is found, automatically authenticates into Rutgers course registration website and registers user for the class. Won "Best Rutgers Hack" at HackRU Spring 2014. Python 2.7, Mechanize.
+
+*Rutgers OSS Payroll 2.0* +
+Added new featureas to the Rutgers Open Systems Solutions payroll site, including
+email notifications, batch printing of timesheets, and an expanded administrator
+view. PHP, MySQL, Javascript. 
+
+*shrunk - The Official Rutgers URL Shrinker* +
+A URL shortening service for Rutgers users with analytics and user account controls. Developed prototype July through August 2014 using PHP, MongoDB, Javascript, and OpenLDAP. After the prototype was subsequently approved by the Rutgers administration, worked with OSS team to implement release version using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
 
 *ru-dnd.com*
 The website for the Rutgers Dungeons and Dragons club. Features include a general info page, mailing list subscription, contact form, dynamically populated newsfeed, and an administrator panel. Python 2.7, Flask, MySQL, SQLAlchemy, OAuth, Apache, OpenSSL. 
