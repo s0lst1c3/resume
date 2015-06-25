@@ -13,6 +13,14 @@ Experience
 *Security Analyst Intern*; OGSystems +
 __June 2015-Present__
 
+* Develops security tools and participates in projects to assist the intelligence community.
+* Assists in software/hardware vulnerability analysis and security penetration testing both internally and for customers.
+* Assists in entry-level reverse engineering tasks such as analyzing malicious software/malware.
+* Writes and maintains technical documentation for ongoing projects and security research.
+* Builds and maintains Python pip packages and administers internal PyPi index.
+* Provides technical support for OFFSEC's development environment, which includes virtual and baremetal servers hosting PyPi instances, gitlab, web-based technologies such as DokuWiki, and a DMZ for training and testing security tools.
+* Assists in product demonstration and presentation to potential customers.
+
 *Independent Contractor*; Top-Hat-Sec +
 __January 2015-Present__
 
@@ -43,33 +51,33 @@ B.S. in Computer Science; Class of 2017 +
 Projects
 --------
 
-*V3N0M Framework* +
-Working with the OGSystems OFFS3C Team to develop the https://www.ogsystems.com/products.aspx#products-security[V3N0M Framework], fully modular suite of offensive security tools geared towards reconnaissance, explotation, and exfiltration. Python 2.7. Python 3.3
+*Current - V3N0M Framework (OGSystems)* +
+A fully modular framework that includes a suite of offensive tools for performing end-to-end offensive methods, from reconnaissance to exploitation and exfiltration. Designed with a focus on stealth and deniability. https://www.ogsystems.com/products.aspx#products-security[Project Website] Python 2.7. Python 3.3, Motor (async Mongo), Tornado
 
-*Mosquito* +
-Part of the team working on https://www.ogsystems.com/products.aspx#products-security[Mosquito for OGSystems]. Mosquito is a small, handheld device that collects wireless signals of 802.11 capable devices such as a cell phones and laptops. It can be deployed to a remote hotspot and concealed, where it will passively gather wireless data to relay back to its CNC. This data can added to a white/black list of devices, enabling Mosquito to server as an accurate and portable intrusion detection device. My responsibilites include writing backend server code and contributing to the packet sniffing modules. Python 2.7, Python 3.3, Mongo, Tornado, dpkt
+*Current - Mosquito (OGSystems)* +
+A small, handheld device that collects wireless signals from handheld devices such as cell phones and laptops. It can be deployed to a remote hotspot and concealed, where it will passively gather wireless data to relay back to its control server. This data can be added to a white/black list of devices, enabling Mosquito to serve as an accurate and portable intrusion detection device. Responsibilities include writing code for control server, as well as hardware/software development for the packet sniffing and GPS modules. https://www.ogsystems.com/products.aspx#products-security[Project Website] Python 2.7, Python 3.3, Redis, Motor (async Mongo), Tornado, dpkt
 
-*grey_harvest*
+*grey_harvest (Open Source)*
 Scrapes the web for reliable http/https proxies and tests them for speed and reliability Can be used as both a python module and a command line utility. Check out the project on PyPi - https://pypi.python.org/pypi/grey_harvest[pypi.python.org/pypi/grey_harvest]. Python 2.7, lxml, requests, BeautifulSoup, sockets
 
-*smf-gremlin* +
+*smf-gremlin (Open Source)* +
 An optimized Simple Machines Forum password cracker written in Python. Supports variable length bruteforce attacks using multiple charsets. Users can easily add their own charsets and leverage multiple wordlist files, and can crack hashes in batch. Python 2.7, hashlib, itertools, argparse.
 
-*eye-of-horus*
+*eye-of-horus (Open Source, Rutgers specific)*
 Scrapes the Rutgers online schedule of classes for open course sections at five minute intervals. When an open course section is found, automatically authenticates into Rutgers course registration website and registers user for the class. Won "Best Rutgers Hack" at HackRU Spring 2014. Python 2.7, Mechanize.
 
-*Rutgers OSS Payroll 2.0* +
-Added new featureas to the Rutgers Open Systems Solutions payroll site, including
+*Rutgers OSS Payroll 2.0 (Rutgers University - Office of Information Technology)* +
+Added new features to the Rutgers Open Systems Solutions payroll site, including
 email notifications, batch printing of timesheets, and an expanded administrator
 view. PHP, MySQL, Javascript. 
 
-*shrunk - The Official Rutgers URL Shrinker* +
+*shrunk - The Official Rutgers URL Shrinker (Rutgers University - Office of Information Technology)* +
 A URL shortening service for Rutgers users with analytics and user account controls. Developed prototype July through August 2014 using PHP, MongoDB, Javascript, and OpenLDAP. After the prototype was subsequently approved by the Rutgers administration, worked with OSS team to implement release version using Python 3.3, Redis, MySQL, OpenLDAP, Flask, and Javascript
 
-*ru-dnd.com*
+*ru-dnd.com (Rutgers University - D&D Club)*
 The website for the Rutgers Dungeons and Dragons club. Features include a general info page, mailing list subscription, contact form, dynamically populated newsfeed, and an administrator panel. Python 2.7, Flask, MySQL, SQLAlchemy, OAuth, Apache, OpenSSL. 
 
-*operations - hackru.org*
+*operations - hackru.org (Rutgers University - USACS)*
 Web hosting for http://hackru.org[hackru.org], the website of one of the largest student hackathons in the United States. Responsible for maintaining and securing hackru.org's high visibility continuous deployment environment. Centos6, OpenSSL, git hooks. 
 
 [[volunteer]]
@@ -79,7 +87,7 @@ Volunteer
 *Firefighter/EMT-B*; Darlington Volunteer Fire Department +
 __September 2010-Present__;
 
-* Part of an engine crew responsible for rapid response to structural, vehicular, and agricultural fires, providing aggressive interior fire supression and rescue capabilities with limited external support and water supply
+* Part of an engine crew responsible for rapid response to structural, vehicular, and agricultural fires, providing aggressive interior fire suppression and rescue capabilities with limited external support and water supply
 * Nationally certified Firefighter I and Hazmat Operator
 * Licensed Maryland EMT-B
 * Participated in major multiagency operations including the FEMA coordinated responses to Hurricane Sandy and Hurricane Irene
